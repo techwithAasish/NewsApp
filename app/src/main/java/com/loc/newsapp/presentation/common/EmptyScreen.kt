@@ -45,7 +45,7 @@ fun EmptyScreen(error: LoadState.Error? = null) {
     }
 
     if (error == null){
-        message = "You have no saved news so far !"
+        message = "You do not have saved news so far !"
         icon = R.drawable.ic_search_document
     }
 

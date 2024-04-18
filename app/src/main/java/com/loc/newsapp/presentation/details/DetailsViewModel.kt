@@ -44,12 +44,12 @@ class DetailsViewModel @Inject constructor(
 
     private suspend fun deleteArticle(article: Article) {
         deleteArticleUseCase(article = article)
-        sideEffect = UIComponent.Toast("Article deleted")
+        sideEffect = UIComponent.Toast("Article deleted from bookmarks")
     }
 
     private suspend fun upsertArticle(article: Article) {
         upsertArticleUseCase(article = article)
-        sideEffect = UIComponent.Toast("Article Added")
+        sideEffect = UIComponent.Toast("Article Added to bookmarks")
     }
 
 }

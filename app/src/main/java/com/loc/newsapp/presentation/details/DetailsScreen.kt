@@ -129,8 +129,8 @@ fun DetailsScreenPreview() {
         DetailsScreen(
             article = Article(
                 author = "",
-                title = "Coinbase says Apple blocked its last app release on NFTs in Wallet ... - CryptoSaurus",
-                description = "Coinbase says Apple blocked its last app release on NFTs in Wallet ... - CryptoSaurus",
+                title = "Coinbase says Apple blocked its last app release on NFTs in Wallet .... - CryptoSaurus",
+                description = "Coinbase says Apple blocked its last app release on NFTs in Wallet .... - CryptoSaurus",
                 content = "We use cookies and data to Deliver and maintain Google services Track outages and protect against spam, fraud, and abuse Measure audience engagement and site statistics to unde… [+1131 chars]",
                 publishedAt = "2023-06-16T22:24:33Z",
                 source = Source(
