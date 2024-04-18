@@ -40,6 +40,7 @@ fun NewsBottomNavigation(
     NavigationBar(
         modifier = Modifier.fillMaxWidth(),
         containerColor = MaterialTheme.colorScheme.background,
+//        tonalElevation = 10.dp
         tonalElevation = 10.dp
     ) {
         items.forEachIndexed { index, item ->
