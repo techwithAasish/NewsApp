@@ -106,7 +106,7 @@ fun ArticleCardPreview() {
                 description = "",
                 publishedAt = "2 hours",
                 source = Source(id = "", name = "BBC"),
-                title = "Her train broke down. Her phone died. And then she met her Saver in a",
+                title = "Her train broke down. Her phone died. And then she met her Saver in a ...",
                 url = "",
                 urlToImage = "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg"
             )
